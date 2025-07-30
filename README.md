@@ -10,7 +10,17 @@ Complete decentralized application with 8 Solidity smart contracts and React fro
 ## 🚀 Quick Start
 
 ### Backend
+
 ```bash
 cd backend
 npm install
 truffle migrate --network ganache
+```
+
+### Frontend
+
+```bash
+cd fronend
+npm install
+npm run dev
+```
