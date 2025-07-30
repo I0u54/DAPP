@@ -1,4 +1,4 @@
-# TP3 Blockchain dApp
+# Blockchain dApp
 
 Complete decentralized application with 8 Solidity smart contracts and React frontend.
 
